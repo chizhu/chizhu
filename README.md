@@ -1,5 +1,6 @@
 ### Hi chizhu 👋
 历史人，程序猿。
+<hr>
 🔭 I’m currently working on and learning:
   - NLP
   - DL
