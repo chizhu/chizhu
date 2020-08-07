@@ -17,10 +17,10 @@
 
 
 ### My Social Media 😺
-- kaggle:[chizhu](kaggle.com/chizhu2018)
+- kaggle:[chizhu](https://kaggle.com/chizhu2018)
 - Linkedln:[chizhu](https://www.linkedin.com/in/chizhu2020/)
 - Twitter:[chizhu](https://twitter.com/chizhu2019)
-- github:[chizhu](github.com/chizhu)
+- github:[chizhu](https://github.com/chizhu)
 
 
 <a href="https://github.com/chizhu/KGQA_HLM">
