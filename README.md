@@ -23,13 +23,6 @@
 - github:[chizhu](https://github.com/chizhu)
 
 
-<a href="https://github.com/chizhu/KGQA_HLM">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=chizhu&repo=KGQA_HLM&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/chizhu/yiguan_sex_age_predict_1st_solution">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=chizhu&repo=yiguan_sex_age_predict_1st_solution&theme=tokyonight" />
-</a>
 
 
 
