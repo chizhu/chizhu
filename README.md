@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=chizhu&layout=compact" />
 </a>
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/chizhu/competition)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/chizhu2018/competition)
 
 
 ### My Social Media 😺
