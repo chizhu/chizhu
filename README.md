@@ -14,6 +14,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=chizhu&layout=compact" />
 </a>
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/chizhu/competition)
 
 
