@@ -6,14 +6,9 @@
 - NLP
 - DL
   
-<a href="https://github.com/chizhu">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=chizhu&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
-</a>
+[![chihzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chizhu)](https://github.com/chizhu/github-readme-stats)
 
-<a href="https://github.com/chizhu">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=chizhu&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chizhu)](https://github.com/chizhu/github-readme-stats)
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/chizhu2018/competition)
 
