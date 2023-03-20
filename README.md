@@ -6,7 +6,6 @@
 - NLP
 - DL
   
-![chizhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chizhu&show_icons=true)
 
 
 ### My Social Media 😺
