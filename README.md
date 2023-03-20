@@ -6,11 +6,7 @@
 - NLP
 - DL
   
-[![chihzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chizhu)](https://github.com/chizhu/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chizhu)](https://github.com/chizhu/github-readme-stats)
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/chizhu2018/competition)
+![chizhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chizhu&show_icons=true)
 
 
 ### My Social Media 😺
